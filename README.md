@@ -11,3 +11,5 @@ Currently, two official plugins are available:
 
 - Video tutorial [Tailwind CSS Full Course 2023 | Build and Deploy a Nike Website](https://www.youtube.com/watch?v=tS7upsfuxmo&t=2978s)
 - Assets [Project assets](https://drive.google.com/file/d/1ccqjc8gJ7CLvXT_vUhVT4Gmys-Ze13FK/view)
+
+Tutorial left at 1:17:28
