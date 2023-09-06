@@ -13,3 +13,5 @@ Currently, two official plugins are available:
 - Assets [Project assets](https://drive.google.com/file/d/1ccqjc8gJ7CLvXT_vUhVT4Gmys-Ze13FK/view)
 
 Tutorial left at 1:17:28 (Day 1)
+
+Tutorial left at 1:37.34 (Day 3)
