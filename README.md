@@ -15,3 +15,4 @@ Currently, two official plugins are available:
 Tutorial left at 1:17:28 (Day 1)
 
 Tutorial left at 1:37.34 (Day 3)
+Tutorial left at 1:47:51 (Day 4)
