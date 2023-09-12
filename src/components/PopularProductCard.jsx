@@ -1,5 +1,13 @@
-const PopularProductCard = () => {
-  return <div>PopularProductCard</div>;
+const PopularProductCard = ({ imgURL, name, price }) => {
+  return (
+    <div className="flex flex-1 w-full max-sm:w-full">
+      <img
+        src={imgURL}
+        alt={name}
+        className="w-[280px] h-[280px] object-cover"
+      />
+    </div>
+  );
 };
 
 export default PopularProductCard;
