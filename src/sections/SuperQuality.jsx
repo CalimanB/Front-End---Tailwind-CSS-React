@@ -1,3 +1,4 @@
+import { shoe8 } from "../assets/images";
 import Button from "../components/Button";
 
 const SuperQuality = () => {
@@ -7,14 +8,7 @@ const SuperQuality = () => {
       className="flex justify-between items-center max-lg:flex-col gap-10 w-full max-container"
     >
       <div className="flex flex-1 flex-col">
-        {/* <p className="text-xl font-montserrat text-coral-red">
-          Our Summer Collections
-        </p> */}
         <h2 className="font-palanquin text-4xl capitalize font-bold lg:max-w-lg">
-          {/* <span className="xl:bg-white xl:whitespace-nowrap relative z-10 pr-10">
-            The New Arrival
-          </span>
-          <br /> */}
           We Provide You <span className="text-coral-red">Super</span>
           <span className="text-coral-red"> Quality</span> Shoes
         </h2>
@@ -29,6 +23,15 @@ const SuperQuality = () => {
         <div className="mt-11">
           <Button label="View details" />
         </div>
+      </div>
+      <div className="flex-1 flex justify-center items-center">
+        <img
+          src={shoe8}
+          alt="shoe8"
+          width={570}
+          length={522}
+          className="object-contain"
+        />
       </div>
     </section>
   );
